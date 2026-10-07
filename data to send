@@ -1,6 +1,6 @@
 {
   "version": "beta v0.0.1eb",
   "status": "Connected to File Server!",
-  "extra_text": "Data Fetch OK"
+  "extra_text": "Data Fetch OK",
   "can_play": true
 }
